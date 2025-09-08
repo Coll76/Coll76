@@ -4,7 +4,7 @@
 Once upon a time, every great product was just an idea.  
 I’ve always been fascinated by the space between a problem and its solution — that magical gap where creativity, logic, and storytelling meet.  
 
-My name is <b>Collins Kubu</b>, and I’m a backend developer who thrives on turning raw ideas into prototypes that grow into meaningful products.  
+My name is <b>Collins Kubu</b>, and I’m a django/django-rest backend developer who thrives on turning raw ideas into prototypes that grow into meaningful products.  
 
 For me, coding isn’t just about making things work.  
 It’s about designing backends that tell a story: a story of people’s challenges, their journeys, and the solutions that help them move forward.  
