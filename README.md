@@ -1,22 +1,18 @@
-<h2 align="left">🚀 Welcome to my corner of the digital world</h2>
+<h2 align="left">🌍 This repo smells like Python and runs on caffeine.</h2>
 
 <p align="left">
-Once upon a time, every great product was just an idea.  
-I’ve always been fascinated by the space between a problem and its solution — that magical gap where creativity, logic, and storytelling meet.  
+Hi, I’m <b>Collins Kubu</b> — I speak Django and Next.js fluently, React is my sidekick, and I give my creations a cozy cloud apartment on AWS.  
 
-My name is <b>Collins Kubu</b>, and I’m a django/django-rest backend developer who thrives on turning raw ideas into prototypes that grow into meaningful products.  
-
-For me, coding isn’t just about making things work.  
-It’s about designing backends that tell a story: a story of people’s challenges, their journeys, and the solutions that help them move forward.  
-That’s why I focus on niche problems, because inside those hidden corners lie the opportunities to create something truly impactful.  
+Think of me as that person who introduces ideas to code, and then makes sure they have a nice place to live (with unlimited Wi-Fi, of course).  
 </p>
 
 ---
 
-### 📖 My Approach
-- I listen for the struggles people often overlook.  
-- I sketch solutions like a storyteller drafts chapters, building prototypes that evolve into real products.  
-- I believe people don’t connect with features alone. They connect with journeys, with stories, and with solutions that fit seamlessly into their lives.  
+### 📖 My Style
+- I treat code like Lego — build, snap, rearrange, repeat.  
+- Backends? That’s where I whisper stories in Python until APIs come alive.  
+- Frontends? I let React and Next.js handle the spotlight.  
+- Cloud? AWS is basically my storage unit in the sky.  
 
 ---
 
@@ -27,8 +23,14 @@ That’s why I focus on niche problems, because inside those hidden corners lie 
 
 ---
 
-### ⚡ What I Build With
+### ⚡ My Toolkit
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
@@ -44,17 +46,9 @@ That’s why I focus on niche problems, because inside those hidden corners lie 
 
 ---
 
-### 🌟 Let’s Connect
+### 🌟 Say Hello
 <div align="left">
   <a href="mailto:collins.kubu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 </div>
-
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
----
