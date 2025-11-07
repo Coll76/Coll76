@@ -3,7 +3,7 @@
 <p align="left">
 Hey there, I’m <b>Collins Kubu</b>. I build things with Django and Next.js, let React handle the charm, and trust AWS to keep everything online.  
 
-I enjoy turning random ideas into working code — and making sure they actually stay up and running.
+I enjoy turning random ideas into working code and making sure they actually stay up and running.
 
 </p>
 
