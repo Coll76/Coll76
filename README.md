@@ -1,4 +1,4 @@
-<h2 align="left">🌍 This repo runs on Python, caffeine, and curiosity.</h2>
+<h2 align="left"> This repo runs on Python, caffeine, and curiosity.</h2>
 
 <p align="left">
 Hey there, I’m <b>Collins Kubu</b>. I build things with Django and Next.js, let React handle the charm, and trust AWS to keep everything online.  
@@ -9,7 +9,7 @@ I enjoy turning random ideas into working code and making sure they actually sta
 
 ---
 
-### 🧩 How I Work
+### How I Work
 
 * I build projects piece by piece, testing and breaking things along the way.
 * For backends, I use Python and Django to bring logic to life.
