@@ -18,12 +18,7 @@ I enjoy turning random ideas into working code and making sure they actually sta
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coll76&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Coll76&layout=compact&theme=radical" height="150" alt="languages graph"  />
-</div>
 
----
 
 ### 🛠️ Tools I Use
 
